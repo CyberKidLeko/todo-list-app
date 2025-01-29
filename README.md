@@ -86,7 +86,8 @@ Other Guidelines
 
 Additional Notes
   - **Branch Naming:** Use the following format when naming branches: feature/task-name, bugfix/issue-number, hotfix/urgent-fix.  
-  - **Commit Messages:** Use semantic commit messages following the conventional commits format. This helps with changelogs and understanding project history.  
+  - **Commit Messages:** Use semantic commit messages following the conventional commits format. This helps with changelogs and understanding project history.
+  - An important document: [Google Doc](https://docs.google.com/document/d/1bWp5ww8LhDfq0hRJAjSDDMoWyH8dVEJ5Y8RhqHbr7F0/edit?usp=sharing)  
 
 
 Happy coding, and let’s build something awesome together! 💻🎉
