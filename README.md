@@ -38,6 +38,7 @@ We’re using a Kanban board to organize tasks and track progress. Check it out 
 ### 2. Check the Kanban Board for Available tasks: 
    - Head over to the [Trello](https://trello.com/invite/b/6799a249f427582ac73674cc/ATTI32461f936305b597c4387f02842b524f413A42C3/to-do-app-management ) Kanban Board to find tasks that need attention.  
    - Pick a task to work on (make sure no one else is working on it, and it’s listed as "To-Do").
+   - Move the task you are working on to "In progess".  
 
 ### 3. Create a New Branch
   Create a new branch for your task:
